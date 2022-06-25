@@ -43,6 +43,7 @@ public class JavaGitHubDemo extends Application {
     /**
      * @param args the command line arguments
      */
+    //This is where i edited
     public static void main(String[] args) {
         launch(args);
     }
